@@ -9,6 +9,7 @@ function App() {
       <div className="header">AI Chat App</div>
 
       {/* Chat Component */}
+      {/* Chat Component */}
       <Chat />
     </div>
   );
