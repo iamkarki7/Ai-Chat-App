@@ -10,7 +10,6 @@ function App() {
 
       {/* Chat Component */}
       {/* Chat Component */}
-      {/* Chat Component */}
       <Chat />
     </div>
   );
