@@ -7,7 +7,6 @@ function App() {
     <div>
       {/* Page Title */}
       <div className="header">AI Chat App</div>
-      <div className="header">AI Chat App</div>
 
       {/* Chat Component */}
       <Chat />
